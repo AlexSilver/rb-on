@@ -1,9 +1,13 @@
-Tasks developed with Python 3.13.2
+
+Answers.docx contains the answers for all free-form questions for home assignment.
 
 Task 1:
+    Task developed with Python 3.13.2
     > python .\task1\src\main.py
 
 Task 2:
+    Task developed with Python 3.13.2
+
     If venv not exist:
     > python -m venv .\task2\.venv
 
