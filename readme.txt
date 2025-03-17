@@ -12,3 +12,9 @@ Task 2:
     > pip install -r .\task2\requirements.txt
     > python .\task2\src\main.py
 
+Task 5:
+    Task developed with angular 19.2.3 and node 18.20.6
+
+    > npm install
+    > ng serve
+

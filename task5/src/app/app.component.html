@@ -1,0 +1,7 @@
+<div class="container">
+  <div class="ball" [ngStyle]="{'top': ballPosition.top + '%', 'left': ballPosition.left + '%'}"></div>
+  <button class="arrow up" (click)="moveBall('up')">▲</button>
+  <button class="arrow down" (click)="moveBall('down')">▼</button>
+  <button class="arrow left" (click)="moveBall('left')">◄</button>
+  <button class="arrow right" (click)="moveBall('right')">►</button>
+</div>
