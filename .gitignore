@@ -1,0 +1,70 @@
+# Byte-compiled / cached files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+.venv/
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+pip-wheel-metadata/
+
+# Logs and temporary files
+*.log
+logs/
+*.tmp
+
+# Dependency files
+Pipfile
+Pipfile.lock
+poetry.lock
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# IDE / Editor configurations
+.vscode/
+.idea/
+*.sublime-workspace
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Testing / Coverage reports
+.coverage
+htmlcov/
+*.cover
+*.py,cover
+nosetests.xml
+pytest_cache/
+junit.xml
+
+# Environment variable files
+.env
+.envrc
+*.secrets
+
+# Docker
+.dockerignore
+
+# mypy
+.mypy_cache/
+
+# Profiling
+*.prof
+*.lprof
+
+# Pyright Type Checking
+.pyright/
+
+# SQLite database files
+*.sqlite3
+*.db
+
+# Ignore any local files overriding settings
+local_settings.py
